@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Sample BishNish",
+    "name_fr": "Sample BishNish",
+    "ISO3166-1-Alpha-2": "BN",
+    "ISO3166-1-Alpha-3": "SBN",
+    "ISO3166-1-numeric": "004",
+    "ITU": "AFG",
+    "MARC": "af",
+    "WMO": "AF",
+    "DS": "AFG",
+    "Dial": "93",
+    "FIFA": "AFG",
+    "FIPS": "AF",
+    "GAUL": "1",
+    "IOC": "AFG",
+    "currency_alphabetic_code": "AFN",
+    "currency_country_name": "AFGHANISTAN",
+    "currency_minor_unit": "2",
+    "currency_name": "Afghani",
+    "currency_numeric_code": "971",
+    "is_independent": "Yes"
+  }
+]
